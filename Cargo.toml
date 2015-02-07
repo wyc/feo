@@ -1,0 +1,9 @@
+[package]
+
+name = "feo"
+version = "0.1.0"
+authors = [ "wayne@fea.st" ]
+
+[[bin]]
+name = "feo"
+
